@@ -1,3 +1,36 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
+	shallow = true
+[submodule "analogsea"]
+	path = analogsea
+	url = https://github.com/sckott/analogsea
+	shallow = true
+[submodule "cowsay"]
+	path = cowsay
+	url = https://github.com/sckott/cowsay
+	shallow = true
+[submodule "discgolf"]
+	path = discgolf
+	url = https://github.com/sckott/discgolf
+	shallow = true
+[submodule "httpcode"]
+	path = httpcode
+	url = https://github.com/sckott/httpcode
+	shallow = true
+[submodule "httping"]
+	path = httping
+	url = https://github.com/sckott/httping
+	shallow = true
+[submodule "openadds"]
+	path = openadds
+	url = https://github.com/sckott/openadds
+	shallow = true
+[submodule "request"]
+	path = request
+	url = https://github.com/sckott/request
+	shallow = true
+[submodule "rphylopic"]
+	path = rphylopic
+	url = https://github.com/sckott/rphylopic
+	shallow = true
