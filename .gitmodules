@@ -8,38 +8,46 @@
 	url = https://github.com/sckott/analogsea
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "cowsay"]
 	path = cowsay
 	url = https://github.com/sckott/cowsay
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "discgolf"]
 	path = discgolf
 	url = https://github.com/sckott/discgolf
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "httpcode"]
 	path = httpcode
 	url = https://github.com/sckott/httpcode
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "httping"]
 	path = httping
 	url = https://github.com/sckott/httping
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "openadds"]
 	path = openadds
 	url = https://github.com/sckott/openadds
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "request"]
 	path = request
 	url = https://github.com/sckott/request
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "rphylopic"]
 	path = rphylopic
 	url = https://github.com/sckott/rphylopic
 	shallow = true
 	registered = true
+	oncran = true
