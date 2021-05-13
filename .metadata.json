@@ -1,0 +1,34 @@
+[
+  {
+    "package": "analogsea",
+    "oncran": true
+  },
+  {
+    "package": "cowsay",
+    "oncran": true
+  },
+  {
+    "package": "discgolf",
+    "oncran": true
+  },
+  {
+    "package": "httpcode",
+    "oncran": true
+  },
+  {
+    "package": "httping",
+    "oncran": true
+  },
+  {
+    "package": "openadds",
+    "oncran": true
+  },
+  {
+    "package": "request",
+    "oncran": true
+  },
+  {
+    "package": "rphylopic",
+    "oncran": true
+  }
+]
