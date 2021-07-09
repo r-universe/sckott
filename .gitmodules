@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "analogsea"]
-	path = analogsea
-	url = https://github.com/sckott/analogsea
-	shallow = true
-	registered = true
 [submodule "cowsay"]
 	path = cowsay
 	url = https://github.com/sckott/cowsay

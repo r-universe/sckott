@@ -1,9 +1,5 @@
 [
   {
-    "package": "analogsea",
-    "oncran": true
-  },
-  {
     "package": "cowsay",
     "oncran": true
   },
