@@ -13,11 +13,6 @@
 	url = https://github.com/sckott/discgolf
 	shallow = true
 	registered = true
-[submodule "httpcode"]
-	path = httpcode
-	url = https://github.com/sckott/httpcode
-	shallow = true
-	registered = true
 [submodule "httping"]
 	path = httping
 	url = https://github.com/sckott/httping
