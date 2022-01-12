@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "httpcode",
+    "oncran": true
+  },
+  {
     "package": "httping",
     "oncran": true
   },
