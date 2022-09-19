@@ -8,11 +8,6 @@
 	url = https://github.com/sckott/cowsay
 	shallow = true
 	registered = true
-[submodule "discgolf"]
-	path = discgolf
-	url = https://github.com/sckott/discgolf
-	shallow = true
-	registered = true
 [submodule "httpcode"]
 	path = httpcode
 	url = https://github.com/sckott/httpcode
