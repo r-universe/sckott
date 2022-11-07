@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "discgolf",
-    "oncran": true
-  },
-  {
     "package": "httpcode",
     "oncran": true
   },
