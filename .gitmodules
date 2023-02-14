@@ -28,8 +28,3 @@
 	url = https://github.com/sckott/request
 	shallow = true
 	registered = true
-[submodule "rphylopic"]
-	path = rphylopic
-	url = https://github.com/sckott/rphylopic
-	shallow = true
-	registered = true

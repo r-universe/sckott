@@ -18,9 +18,5 @@
   {
     "package": "request",
     "oncran": true
-  },
-  {
-    "package": "rphylopic",
-    "oncran": true
   }
 ]
