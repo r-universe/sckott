@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "fauxpas",
+    "oncran": true
+  },
+  {
     "package": "httpcode",
     "oncran": true
   },

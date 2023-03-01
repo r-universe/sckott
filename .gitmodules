@@ -8,6 +8,11 @@
 	url = https://github.com/sckott/cowsay
 	shallow = true
 	registered = true
+[submodule "fauxpas"]
+	path = fauxpas
+	url = https://github.com/sckott/fauxpas
+	shallow = true
+	registered = true
 [submodule "httpcode"]
 	path = httpcode
 	url = https://github.com/sckott/httpcode
