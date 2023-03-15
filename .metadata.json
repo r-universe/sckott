@@ -1,18 +1,6 @@
 [
   {
-    "package": "cowsay",
-    "oncran": true
-  },
-  {
     "package": "fauxpas",
-    "oncran": true
-  },
-  {
-    "package": "httpcode",
-    "oncran": true
-  },
-  {
-    "package": "httping",
     "oncran": true
   },
   {
@@ -20,7 +8,19 @@
     "oncran": true
   },
   {
+    "package": "httping",
+    "oncran": true
+  },
+  {
     "package": "request",
+    "oncran": true
+  },
+  {
+    "package": "cowsay",
+    "oncran": true
+  },
+  {
+    "package": "httpcode",
     "oncran": true
   }
 ]
