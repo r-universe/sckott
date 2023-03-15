@@ -1,10 +1,14 @@
 [
   {
+    "package": "cowsay",
+    "oncran": true
+  },
+  {
     "package": "fauxpas",
     "oncran": true
   },
   {
-    "package": "openadds",
+    "package": "httpcode",
     "oncran": true
   },
   {
@@ -12,15 +16,11 @@
     "oncran": true
   },
   {
+    "package": "openadds",
+    "oncran": true
+  },
+  {
     "package": "request",
-    "oncran": true
-  },
-  {
-    "package": "cowsay",
-    "oncran": true
-  },
-  {
-    "package": "httpcode",
     "oncran": true
   }
 ]
