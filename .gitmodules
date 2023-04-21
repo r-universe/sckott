@@ -23,11 +23,6 @@
 	url = https://github.com/sckott/httping
 	shallow = true
 	registered = true
-[submodule "openadds"]
-	path = openadds
-	url = https://github.com/sckott/openadds
-	shallow = true
-	registered = true
 [submodule "request"]
 	path = request
 	url = https://github.com/sckott/request
